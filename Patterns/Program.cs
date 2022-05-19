@@ -15,6 +15,7 @@ namespace UI
     {
         static void Main(string[] args)
         {
+            #if DEBUG
             #region 1. Factory Method
             //Ejemplo 1.
             //var factoryMethod = new FactoryMethod.Ejemplos();
@@ -32,6 +33,7 @@ namespace UI
             #endregion
 
             Console.ReadKey();
+            #endif
         }
     }
 }
