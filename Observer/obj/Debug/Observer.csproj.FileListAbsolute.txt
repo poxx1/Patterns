@@ -4,3 +4,9 @@ C:\Users\CC668CG\source\repos\Observer\obj\Debug\Observer.csproj.AssemblyReferen
 C:\Users\CC668CG\source\repos\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
 C:\Users\CC668CG\source\repos\Observer\obj\Debug\Observer.dll
 C:\Users\CC668CG\source\repos\Observer\obj\Debug\Observer.pdb
+C:\Users\CC668CG\source\repos\Patterns\Observer\bin\Debug\Observer.dll
+C:\Users\CC668CG\source\repos\Patterns\Observer\bin\Debug\Observer.pdb
+C:\Users\CC668CG\source\repos\Patterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\Observer\obj\Debug\Observer.dll
+C:\Users\CC668CG\source\repos\Patterns\Observer\obj\Debug\Observer.pdb

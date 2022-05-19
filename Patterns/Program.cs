@@ -15,7 +15,7 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            #if DEBUG
+#if DEBUG
             #region 1. Factory Method
             //Ejemplo 1.
             //var factoryMethod = new FactoryMethod.Ejemplos();
@@ -28,12 +28,21 @@ namespace UI
             #endregion
 
             #region 3. Composite
-            var composite = new Composit.Ejemplos();
-            composite.Ejemplo1();
+            //var composite = new Composit.Ejemplos();
+            //composite.Ejemplo1();
             #endregion
 
+            #region 4. Singleton
+            //var singleton = new Singleton.Ejemplos();
+            //singleton.Ejemplo1();
+            #endregion
+
+            #region 5. Memento
+            var memento = new Memento.Ejemplos();
+            memento.Ejemplo1();
+            #endregion
             Console.ReadKey();
-            #endif
+         #endif
         }
     }
 }

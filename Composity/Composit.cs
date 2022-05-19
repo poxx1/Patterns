@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
+    /*
+     Se usa para cuando tenes 2 clases o mas compuestas, las cuales son parecidas.
+       EJ. Productos y Promociones. Ambos tienen nombres y precios. A su vez promos esta compuesto
+      por productos.
+     */
     public class Composit
     {
         #region Ejemplos

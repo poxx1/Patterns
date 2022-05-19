@@ -4,3 +4,9 @@ C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cac
 C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
 C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.dll
 C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.pdb
+C:\Users\CC668CG\source\repos\Patterns\SOLID\bin\Debug\SOLID.dll
+C:\Users\CC668CG\source\repos\Patterns\SOLID\bin\Debug\SOLID.pdb
+C:\Users\CC668CG\source\repos\Patterns\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\SOLID\obj\Debug\SOLID.dll
+C:\Users\CC668CG\source\repos\Patterns\SOLID\obj\Debug\SOLID.pdb

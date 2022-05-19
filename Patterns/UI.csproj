@@ -50,13 +50,29 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj">
+      <Project>{0ee3f24a-5b2c-4057-971c-22a34711be12}</Project>
+      <Name>AbstractFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Adapter\Adapter.csproj">
+      <Project>{45d3b07e-5c13-4768-92a4-aaeeeba2ea3f}</Project>
+      <Name>Adapter</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Composity\Composite.csproj">
       <Project>{89118354-1a7c-42d1-a2a1-0e10d29a6468}</Project>
       <Name>Composite</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Decorator\Decorator.csproj">
+      <Project>{f70f39d3-878c-4ef9-9129-cb9ff6141f51}</Project>
+      <Name>Decorator</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj">
       <Project>{2f6dc020-8e86-4377-be6a-ddb5fced1da5}</Project>
       <Name>FactoryMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Memento\Memento.csproj">
+      <Project>{3aa86e87-9c6a-40f0-ae15-863aaa6175d2}</Project>
+      <Name>Memento</Name>
     </ProjectReference>
     <ProjectReference Include="..\Observer\Observer.csproj">
       <Project>{d657a086-2fe8-4836-ab76-ccaa290a4a75}</Project>

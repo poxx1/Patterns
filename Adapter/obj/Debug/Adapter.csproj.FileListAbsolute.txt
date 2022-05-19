@@ -1,0 +1,6 @@
+C:\Users\CC668CG\source\repos\Patterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\CC668CG\source\repos\Patterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\CC668CG\source\repos\Patterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\CC668CG\source\repos\Patterns\Adapter\obj\Debug\Adapter.pdb

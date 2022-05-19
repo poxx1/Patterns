@@ -1,0 +1,6 @@
+C:\Users\CC668CG\source\repos\Patterns\Memento\bin\Debug\Memento.dll
+C:\Users\CC668CG\source\repos\Patterns\Memento\bin\Debug\Memento.pdb
+C:\Users\CC668CG\source\repos\Patterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\Memento\obj\Debug\Memento.dll
+C:\Users\CC668CG\source\repos\Patterns\Memento\obj\Debug\Memento.pdb

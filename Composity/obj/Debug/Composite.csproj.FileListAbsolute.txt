@@ -4,3 +4,9 @@ C:\Users\CC668CG\source\repos\Composity\obj\Debug\Composite.csproj.AssemblyRefer
 C:\Users\CC668CG\source\repos\Composity\obj\Debug\Composite.csproj.CoreCompileInputs.cache
 C:\Users\CC668CG\source\repos\Composity\obj\Debug\Composity.dll
 C:\Users\CC668CG\source\repos\Composity\obj\Debug\Composity.pdb
+C:\Users\CC668CG\source\repos\Patterns\Composity\bin\Debug\Composity.dll
+C:\Users\CC668CG\source\repos\Patterns\Composity\bin\Debug\Composity.pdb
+C:\Users\CC668CG\source\repos\Patterns\Composity\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\Composity\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\Composity\obj\Debug\Composity.dll
+C:\Users\CC668CG\source\repos\Patterns\Composity\obj\Debug\Composity.pdb

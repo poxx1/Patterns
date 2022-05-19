@@ -1,0 +1,6 @@
+C:\Users\CC668CG\source\repos\Patterns\Decorator\bin\Debug\Decorator.dll
+C:\Users\CC668CG\source\repos\Patterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\CC668CG\source\repos\Patterns\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\Decorator\obj\Debug\Decorator.dll
+C:\Users\CC668CG\source\repos\Patterns\Decorator\obj\Debug\Decorator.pdb

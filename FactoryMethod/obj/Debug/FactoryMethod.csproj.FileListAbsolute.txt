@@ -4,3 +4,9 @@ C:\Users\CC668CG\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csproj.Assem
 C:\Users\CC668CG\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 C:\Users\CC668CG\source\repos\FactoryMethod\obj\Debug\FactoryMethod.dll
 C:\Users\CC668CG\source\repos\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\bin\Debug\FactoryMethod.dll
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.dll
+C:\Users\CC668CG\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
