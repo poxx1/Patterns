@@ -1,0 +1,6 @@
+C:\Users\CC668CG\source\repos\SOLID\bin\Debug\SOLID.dll
+C:\Users\CC668CG\source\repos\SOLID\bin\Debug\SOLID.pdb
+C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.dll
+C:\Users\CC668CG\source\repos\SOLID\obj\Debug\SOLID.pdb
